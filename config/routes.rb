@@ -7,6 +7,7 @@ Famcon::Application.routes.draw do
   match '/offer', to:'famcons#offer'
   match '/references', to:'famcons#references'
   match '/promotions', to:'famcons#promotions'
+  match '/jobs', to:'famcons#jobs'
   match '/contact', to:'famcons#contact'
 
   # Sample of regular route:

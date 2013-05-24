@@ -20,6 +20,10 @@ class FamconsController < ApplicationController
 
   end
 
+  def jobs
+
+  end
+
   def contact
 
   end
